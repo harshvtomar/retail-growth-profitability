@@ -1,0 +1,10 @@
+{
+  "orders": 13899,
+  "net_revenue": 1275348.26,
+  "contribution_profit": 401839.74,
+  "contribution_margin": 0.3150823603272098,
+  "return_rate": 0.09151737535074465,
+  "trend_wape": 0.347396956619591,
+  "naive_wape": 0.07925780853790736,
+  "active_customers": 2178
+}

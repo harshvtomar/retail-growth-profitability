@@ -1,0 +1,17 @@
+// Net revenue
+Net revenue = SUM('FactMonthly'[revenue])
+
+// Contribution profit
+Contribution profit = SUM('FactMonthly'[profit])
+
+// Contribution margin
+Contribution margin = DIVIDE(SUM('FactMonthly'[profit]), SUM('FactMonthly'[revenue]))
+
+// Return rate
+Return rate = DIVIDE(SUM('FactMonthly'[returns]), SUM('FactMonthly'[orders]))
+
+// Net revenue Previous Month
+Net revenue Previous Month = CALCULATE([Net revenue], DATEADD('DimDate'[Date], -1, MONTH))
+
+// Net revenue MoM Change %
+Net revenue MoM Change % = DIVIDE([Net revenue] - [Net revenue Previous Month], [Net revenue Previous Month])

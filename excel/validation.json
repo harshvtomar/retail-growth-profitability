@@ -1,0 +1,7 @@
+{
+  "engine": "Artifact Tool calculation engine; Microsoft Excel not available",
+  "all_segments_first_kpi": 1275348.26,
+  "filtered_first_kpi": 340411.26000000007,
+  "extra_input_check": "Setting forecast equal to actual makes absolute error zero.",
+  "error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

@@ -1,0 +1,227 @@
+{
+  "name": "retail_growth_profitability",
+  "compatibilityLevel": 1567,
+  "model": {
+    "culture": "en-US",
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "en-US",
+    "tables": [
+      {
+        "name": "FactMonthly",
+        "columns": [
+          {
+            "name": "month",
+            "dataType": "string",
+            "sourceColumn": "month",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "segment",
+            "dataType": "string",
+            "sourceColumn": "segment",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "orders",
+            "dataType": "int64",
+            "sourceColumn": "orders",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "returns",
+            "dataType": "int64",
+            "sourceColumn": "returns",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "revenue",
+            "dataType": "double",
+            "sourceColumn": "revenue",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "profit",
+            "dataType": "double",
+            "sourceColumn": "profit",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "month_date",
+            "dataType": "dateTime",
+            "sourceColumn": "month_date",
+            "summarizeBy": "none",
+            "formatString": "yyyy-mm-dd"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "FactMonthly",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Source = Csv.Document(File.Contents(FolderPath & \"FactMonthly.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),",
+                "    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),",
+                "    Typed = Table.TransformColumnTypes(Headers, {{\"month\", type text}, {\"segment\", type text}, {\"orders\", Int64.Type}, {\"returns\", Int64.Type}, {\"revenue\", type number}, {\"profit\", type number}, {\"month_date\", type date}}, \"en-US\")",
+                "in",
+                "    Typed"
+              ]
+            }
+          }
+        ],
+        "measures": [
+          {
+            "name": "Net revenue",
+            "expression": "SUM('FactMonthly'[revenue])",
+            "formatString": "$#,0"
+          },
+          {
+            "name": "Contribution profit",
+            "expression": "SUM('FactMonthly'[profit])",
+            "formatString": "$#,0"
+          },
+          {
+            "name": "Contribution margin",
+            "expression": "DIVIDE(SUM('FactMonthly'[profit]), SUM('FactMonthly'[revenue]))",
+            "formatString": "0.0%"
+          },
+          {
+            "name": "Return rate",
+            "expression": "DIVIDE(SUM('FactMonthly'[returns]), SUM('FactMonthly'[orders]))",
+            "formatString": "0.0%"
+          },
+          {
+            "name": "Net revenue Previous Month",
+            "expression": "CALCULATE([Net revenue], DATEADD('DimDate'[Date], -1, MONTH))",
+            "formatString": "$#,0"
+          },
+          {
+            "name": "Net revenue MoM Change %",
+            "expression": "DIVIDE([Net revenue] - [Net revenue Previous Month], [Net revenue Previous Month])",
+            "formatString": "0.0%"
+          }
+        ]
+      },
+      {
+        "name": "DimDate",
+        "columns": [
+          {
+            "name": "Date",
+            "dataType": "dateTime",
+            "sourceColumn": "Date",
+            "summarizeBy": "none",
+            "formatString": "yyyy-mm-dd",
+            "isKey": true
+          },
+          {
+            "name": "Month",
+            "dataType": "string",
+            "sourceColumn": "Month",
+            "summarizeBy": "none",
+            "sortByColumn": "MonthSort"
+          },
+          {
+            "name": "MonthSort",
+            "dataType": "int64",
+            "sourceColumn": "MonthSort",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Year",
+            "dataType": "int64",
+            "sourceColumn": "Year",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Quarter",
+            "dataType": "int64",
+            "sourceColumn": "Quarter",
+            "summarizeBy": "none"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "DimDate",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Source = Csv.Document(File.Contents(FolderPath & \"DimDate.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),",
+                "    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),",
+                "    Typed = Table.TransformColumnTypes(Headers, {{\"Date\", type date}, {\"Month\", type text}, {\"MonthSort\", Int64.Type}, {\"Year\", Int64.Type}, {\"Quarter\", Int64.Type}}, \"en-US\")",
+                "in",
+                "    Typed"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "DimSegment",
+        "columns": [
+          {
+            "name": "segment",
+            "dataType": "string",
+            "sourceColumn": "segment",
+            "summarizeBy": "none",
+            "isKey": true
+          }
+        ],
+        "partitions": [
+          {
+            "name": "DimSegment",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let",
+                "    Source = Csv.Document(File.Contents(FolderPath & \"DimSegment.csv\"), [Delimiter=\",\", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),",
+                "    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),",
+                "    Typed = Table.TransformColumnTypes(Headers, {{\"segment\", type text}}, \"en-US\")",
+                "in",
+                "    Typed"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "name": "FactMonthly_DimDate",
+        "fromTable": "FactMonthly",
+        "fromColumn": "month_date",
+        "toTable": "DimDate",
+        "toColumn": "Date",
+        "crossFilteringBehavior": "oneDirection"
+      },
+      {
+        "name": "FactMonthly_DimSegment",
+        "fromTable": "FactMonthly",
+        "fromColumn": "segment",
+        "toTable": "DimSegment",
+        "toColumn": "segment",
+        "crossFilteringBehavior": "oneDirection"
+      }
+    ],
+    "expressions": [
+      {
+        "name": "FolderPath",
+        "kind": "m",
+        "expression": "\"C:\\Analytics\\retail-growth-profitability\\bi\\data\\\" meta [IsParameterQuery=true, Type=\"Text\", IsParameterQueryRequired=true]"
+      }
+    ],
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"FactMonthly\", \"DimDate\", \"DimSegment\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+EVALUATE
+SUMMARIZECOLUMNS(
+    "Net revenue", [Net revenue],
+    "Contribution profit", [Contribution profit],
+    "Contribution margin", [Contribution margin],
+    "Return rate", [Return rate]
+)

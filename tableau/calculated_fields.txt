@@ -1,0 +1,11 @@
+Net revenue
+SUM([revenue])
+
+Contribution profit
+SUM([profit])
+
+Contribution margin
+IF SUM([revenue]) = 0 THEN NULL ELSE SUM([profit]) / SUM([revenue]) END
+
+Return rate
+IF SUM([orders]) = 0 THEN NULL ELSE SUM([returns]) / SUM([orders]) END

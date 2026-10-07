@@ -1,0 +1,17 @@
+region,category,revenue,revenue_rank
+East,Electronics,174506.250000,1
+East,Home,81993.170000,2
+East,Apparel,46357.630000,3
+East,Accessories,37554.210000,4
+North,Electronics,163178.170000,1
+North,Home,69475.760000,2
+North,Apparel,39516.040000,3
+North,Accessories,34970.080000,4
+South,Electronics,155090.250000,1
+South,Home,67275.140000,2
+South,Apparel,42092.760000,3
+South,Accessories,37834.980000,4
+West,Electronics,171418.640000,1
+West,Home,73672.970000,2
+West,Apparel,43065.960000,3
+West,Accessories,37346.250000,4

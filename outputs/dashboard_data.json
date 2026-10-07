@@ -1,0 +1,714 @@
+{
+  "rows": [
+    {
+      "month": "2024-01",
+      "segment": "East",
+      "orders": 65,
+      "returns": 6,
+      "revenue": 5108.13,
+      "profit": 1763.79,
+      "margin": 0.34529074240475477
+    },
+    {
+      "month": "2024-01",
+      "segment": "North",
+      "orders": 69,
+      "returns": 7,
+      "revenue": 6659.47,
+      "profit": 2065.32,
+      "margin": 0.31013278834501845
+    },
+    {
+      "month": "2024-01",
+      "segment": "South",
+      "orders": 73,
+      "returns": 7,
+      "revenue": 5897.29,
+      "profit": 2108.26,
+      "margin": 0.35749640936769267
+    },
+    {
+      "month": "2024-01",
+      "segment": "West",
+      "orders": 85,
+      "returns": 6,
+      "revenue": 7802.91,
+      "profit": 2462.9700000000003,
+      "margin": 0.3156476237711316
+    },
+    {
+      "month": "2024-02",
+      "segment": "East",
+      "orders": 110,
+      "returns": 11,
+      "revenue": 10524.59,
+      "profit": 3206.5299999999997,
+      "margin": 0.30467030069579903
+    },
+    {
+      "month": "2024-02",
+      "segment": "North",
+      "orders": 95,
+      "returns": 4,
+      "revenue": 8485.01,
+      "profit": 3031.44,
+      "margin": 0.3572700562521435
+    },
+    {
+      "month": "2024-02",
+      "segment": "South",
+      "orders": 74,
+      "returns": 7,
+      "revenue": 7254.66,
+      "profit": 2239.07,
+      "margin": 0.3086388610906645
+    },
+    {
+      "month": "2024-02",
+      "segment": "West",
+      "orders": 97,
+      "returns": 9,
+      "revenue": 8141.84,
+      "profit": 2917.73,
+      "margin": 0.35836248317333674
+    },
+    {
+      "month": "2024-03",
+      "segment": "East",
+      "orders": 99,
+      "returns": 8,
+      "revenue": 8966.45,
+      "profit": 2932.31,
+      "margin": 0.32703132231819726
+    },
+    {
+      "month": "2024-03",
+      "segment": "North",
+      "orders": 119,
+      "returns": 10,
+      "revenue": 11027.54,
+      "profit": 3544.4,
+      "margin": 0.3214134793435344
+    },
+    {
+      "month": "2024-03",
+      "segment": "South",
+      "orders": 124,
+      "returns": 11,
+      "revenue": 9717.130000000001,
+      "profit": 3514.43,
+      "margin": 0.3616736629025236
+    },
+    {
+      "month": "2024-03",
+      "segment": "West",
+      "orders": 124,
+      "returns": 14,
+      "revenue": 12008.17,
+      "profit": 3676.7,
+      "margin": 0.30618320693327955
+    },
+    {
+      "month": "2024-04",
+      "segment": "East",
+      "orders": 148,
+      "returns": 11,
+      "revenue": 13863.84,
+      "profit": 4350.63,
+      "margin": 0.31381132500086556
+    },
+    {
+      "month": "2024-04",
+      "segment": "North",
+      "orders": 128,
+      "returns": 16,
+      "revenue": 11169.13,
+      "profit": 3605.03,
+      "margin": 0.3227673059584767
+    },
+    {
+      "month": "2024-04",
+      "segment": "South",
+      "orders": 125,
+      "returns": 15,
+      "revenue": 11266.0,
+      "profit": 3334.62,
+      "margin": 0.2959897035327534
+    },
+    {
+      "month": "2024-04",
+      "segment": "West",
+      "orders": 137,
+      "returns": 13,
+      "revenue": 13160.14,
+      "profit": 3690.54,
+      "margin": 0.2804331868809906
+    },
+    {
+      "month": "2024-05",
+      "segment": "East",
+      "orders": 173,
+      "returns": 17,
+      "revenue": 15007.63,
+      "profit": 4925.86,
+      "margin": 0.32822371020607516
+    },
+    {
+      "month": "2024-05",
+      "segment": "North",
+      "orders": 176,
+      "returns": 20,
+      "revenue": 16709.12,
+      "profit": 5240.28,
+      "margin": 0.3136179523517696
+    },
+    {
+      "month": "2024-05",
+      "segment": "South",
+      "orders": 177,
+      "returns": 20,
+      "revenue": 15687.14,
+      "profit": 4481.42,
+      "margin": 0.2856747628949573
+    },
+    {
+      "month": "2024-05",
+      "segment": "West",
+      "orders": 168,
+      "returns": 14,
+      "revenue": 14650.17,
+      "profit": 5015.99,
+      "margin": 0.34238442284287485
+    },
+    {
+      "month": "2024-06",
+      "segment": "East",
+      "orders": 221,
+      "returns": 17,
+      "revenue": 21341.42,
+      "profit": 6525.03,
+      "margin": 0.3057448848295943
+    },
+    {
+      "month": "2024-06",
+      "segment": "North",
+      "orders": 165,
+      "returns": 7,
+      "revenue": 15301.26,
+      "profit": 4851.38,
+      "margin": 0.3170575495089947
+    },
+    {
+      "month": "2024-06",
+      "segment": "South",
+      "orders": 199,
+      "returns": 16,
+      "revenue": 17706.62,
+      "profit": 5852.7,
+      "margin": 0.3305373922295729
+    },
+    {
+      "month": "2024-06",
+      "segment": "West",
+      "orders": 195,
+      "returns": 13,
+      "revenue": 19807.25,
+      "profit": 5895.21,
+      "margin": 0.2976288985093842
+    },
+    {
+      "month": "2024-07",
+      "segment": "East",
+      "orders": 243,
+      "returns": 17,
+      "revenue": 22539.09,
+      "profit": 7400.73,
+      "margin": 0.32835087840724714
+    },
+    {
+      "month": "2024-07",
+      "segment": "North",
+      "orders": 199,
+      "returns": 15,
+      "revenue": 19625.68,
+      "profit": 5667.12,
+      "margin": 0.2887604404025746
+    },
+    {
+      "month": "2024-07",
+      "segment": "South",
+      "orders": 215,
+      "returns": 17,
+      "revenue": 21065.33,
+      "profit": 7108.04,
+      "margin": 0.33742837164193484
+    },
+    {
+      "month": "2024-07",
+      "segment": "West",
+      "orders": 222,
+      "returns": 24,
+      "revenue": 19202.01,
+      "profit": 6079.27,
+      "margin": 0.3165955022416925
+    },
+    {
+      "month": "2024-08",
+      "segment": "East",
+      "orders": 237,
+      "returns": 14,
+      "revenue": 23388.86,
+      "profit": 7738.99,
+      "margin": 0.3308835915901844
+    },
+    {
+      "month": "2024-08",
+      "segment": "North",
+      "orders": 228,
+      "returns": 27,
+      "revenue": 20336.23,
+      "profit": 6255.97,
+      "margin": 0.3076268315218701
+    },
+    {
+      "month": "2024-08",
+      "segment": "South",
+      "orders": 245,
+      "returns": 20,
+      "revenue": 21455.74,
+      "profit": 6796.96,
+      "margin": 0.3167898194142919
+    },
+    {
+      "month": "2024-08",
+      "segment": "West",
+      "orders": 251,
+      "returns": 17,
+      "revenue": 26363.74,
+      "profit": 7639.9,
+      "margin": 0.28978817117753397
+    },
+    {
+      "month": "2024-09",
+      "segment": "East",
+      "orders": 271,
+      "returns": 20,
+      "revenue": 25464.46,
+      "profit": 8007.56,
+      "margin": 0.31446023202534046
+    },
+    {
+      "month": "2024-09",
+      "segment": "North",
+      "orders": 252,
+      "returns": 23,
+      "revenue": 23051.12,
+      "profit": 7594.28,
+      "margin": 0.32945383998695077
+    },
+    {
+      "month": "2024-09",
+      "segment": "South",
+      "orders": 242,
+      "returns": 30,
+      "revenue": 20403.81,
+      "profit": 6213.46,
+      "margin": 0.3045244981206941
+    },
+    {
+      "month": "2024-09",
+      "segment": "West",
+      "orders": 267,
+      "returns": 15,
+      "revenue": 27252.7,
+      "profit": 8499.26,
+      "margin": 0.3118685488043387
+    },
+    {
+      "month": "2024-10",
+      "segment": "East",
+      "orders": 305,
+      "returns": 27,
+      "revenue": 27583.98,
+      "profit": 8717.3,
+      "margin": 0.3160276363309428
+    },
+    {
+      "month": "2024-10",
+      "segment": "North",
+      "orders": 252,
+      "returns": 21,
+      "revenue": 24269.89,
+      "profit": 7769.37,
+      "margin": 0.3201238242118114
+    },
+    {
+      "month": "2024-10",
+      "segment": "South",
+      "orders": 289,
+      "returns": 27,
+      "revenue": 26148.23,
+      "profit": 8310.05,
+      "margin": 0.31780544992911564
+    },
+    {
+      "month": "2024-10",
+      "segment": "West",
+      "orders": 287,
+      "returns": 21,
+      "revenue": 27115.37,
+      "profit": 8839.14,
+      "margin": 0.3259826437920633
+    },
+    {
+      "month": "2024-11",
+      "segment": "East",
+      "orders": 245,
+      "returns": 26,
+      "revenue": 24694.38,
+      "profit": 7112.78,
+      "margin": 0.28803233772218617
+    },
+    {
+      "month": "2024-11",
+      "segment": "North",
+      "orders": 234,
+      "returns": 19,
+      "revenue": 20375.53,
+      "profit": 6567.16,
+      "margin": 0.3223062173106663
+    },
+    {
+      "month": "2024-11",
+      "segment": "South",
+      "orders": 234,
+      "returns": 28,
+      "revenue": 20788.73,
+      "profit": 6443.51,
+      "margin": 0.3099520749944802
+    },
+    {
+      "month": "2024-11",
+      "segment": "West",
+      "orders": 239,
+      "returns": 27,
+      "revenue": 20636.9,
+      "profit": 6276.2699999999995,
+      "margin": 0.30412852705590465
+    },
+    {
+      "month": "2024-12",
+      "segment": "East",
+      "orders": 235,
+      "returns": 22,
+      "revenue": 20097.89,
+      "profit": 6486.05,
+      "margin": 0.3227229326063582
+    },
+    {
+      "month": "2024-12",
+      "segment": "North",
+      "orders": 227,
+      "returns": 19,
+      "revenue": 21505.15,
+      "profit": 6635.09,
+      "margin": 0.30853493233016277
+    },
+    {
+      "month": "2024-12",
+      "segment": "South",
+      "orders": 207,
+      "returns": 23,
+      "revenue": 20257.9,
+      "profit": 6096.51,
+      "margin": 0.300944816590071
+    },
+    {
+      "month": "2024-12",
+      "segment": "West",
+      "orders": 242,
+      "returns": 26,
+      "revenue": 22022.64,
+      "profit": 6480.08,
+      "margin": 0.29424628473243897
+    },
+    {
+      "month": "2025-01",
+      "segment": "East",
+      "orders": 235,
+      "returns": 20,
+      "revenue": 20422.22,
+      "profit": 6982.63,
+      "margin": 0.34191336691113894
+    },
+    {
+      "month": "2025-01",
+      "segment": "North",
+      "orders": 218,
+      "returns": 23,
+      "revenue": 21130.88,
+      "profit": 6348.98,
+      "margin": 0.3004598010116
+    },
+    {
+      "month": "2025-01",
+      "segment": "South",
+      "orders": 218,
+      "returns": 23,
+      "revenue": 19786.62,
+      "profit": 6150.33,
+      "margin": 0.31083277487514294
+    },
+    {
+      "month": "2025-01",
+      "segment": "West",
+      "orders": 224,
+      "returns": 15,
+      "revenue": 21869.56,
+      "profit": 6708.85,
+      "margin": 0.30676657417890435
+    },
+    {
+      "month": "2025-02",
+      "segment": "East",
+      "orders": 242,
+      "returns": 30,
+      "revenue": 22621.01,
+      "profit": 7050.1,
+      "margin": 0.31166159247531394
+    },
+    {
+      "month": "2025-02",
+      "segment": "North",
+      "orders": 185,
+      "returns": 21,
+      "revenue": 16762.15,
+      "profit": 5278.83,
+      "margin": 0.3149255912875138
+    },
+    {
+      "month": "2025-02",
+      "segment": "South",
+      "orders": 206,
+      "returns": 18,
+      "revenue": 18942.96,
+      "profit": 6047.61,
+      "margin": 0.31925369636001977
+    },
+    {
+      "month": "2025-02",
+      "segment": "West",
+      "orders": 218,
+      "returns": 23,
+      "revenue": 18590.35,
+      "profit": 6177.64,
+      "margin": 0.3323035876140041
+    },
+    {
+      "month": "2025-03",
+      "segment": "East",
+      "orders": 230,
+      "returns": 21,
+      "revenue": 20743.55,
+      "profit": 6475.05,
+      "margin": 0.3121476314324212
+    },
+    {
+      "month": "2025-03",
+      "segment": "North",
+      "orders": 215,
+      "returns": 24,
+      "revenue": 20219.2,
+      "profit": 6181.48,
+      "margin": 0.3057232729287014
+    },
+    {
+      "month": "2025-03",
+      "segment": "South",
+      "orders": 203,
+      "returns": 19,
+      "revenue": 16668.45,
+      "profit": 5007.22,
+      "margin": 0.3004010570868917
+    },
+    {
+      "month": "2025-03",
+      "segment": "West",
+      "orders": 227,
+      "returns": 28,
+      "revenue": 21731.74,
+      "profit": 6583.78,
+      "margin": 0.30295687321861936
+    },
+    {
+      "month": "2025-04",
+      "segment": "East",
+      "orders": 244,
+      "returns": 19,
+      "revenue": 20113.02,
+      "profit": 6840.2,
+      "margin": 0.3400881617976813
+    },
+    {
+      "month": "2025-04",
+      "segment": "North",
+      "orders": 198,
+      "returns": 18,
+      "revenue": 18106.75,
+      "profit": 5387.4,
+      "margin": 0.2975354494870697
+    },
+    {
+      "month": "2025-04",
+      "segment": "South",
+      "orders": 206,
+      "returns": 15,
+      "revenue": 18411.52,
+      "profit": 6072.49,
+      "margin": 0.32982013435066737
+    },
+    {
+      "month": "2025-04",
+      "segment": "West",
+      "orders": 169,
+      "returns": 19,
+      "revenue": 14390.58,
+      "profit": 4648.54,
+      "margin": 0.3230265910060609
+    },
+    {
+      "month": "2025-05",
+      "segment": "East",
+      "orders": 219,
+      "returns": 16,
+      "revenue": 21139.35,
+      "profit": 7048.52,
+      "margin": 0.333431254981823
+    },
+    {
+      "month": "2025-05",
+      "segment": "North",
+      "orders": 182,
+      "returns": 16,
+      "revenue": 17371.17,
+      "profit": 5511.41,
+      "margin": 0.3172733903358266
+    },
+    {
+      "month": "2025-05",
+      "segment": "South",
+      "orders": 155,
+      "returns": 12,
+      "revenue": 14999.73,
+      "profit": 4822.51,
+      "margin": 0.32150645378283477
+    },
+    {
+      "month": "2025-05",
+      "segment": "West",
+      "orders": 194,
+      "returns": 21,
+      "revenue": 16365.47,
+      "profit": 5221.68,
+      "margin": 0.3190669134464211
+    },
+    {
+      "month": "2025-06",
+      "segment": "East",
+      "orders": 176,
+      "returns": 17,
+      "revenue": 16791.39,
+      "profit": 4878.94,
+      "margin": 0.29056200826733225
+    },
+    {
+      "month": "2025-06",
+      "segment": "North",
+      "orders": 166,
+      "returns": 12,
+      "revenue": 15034.77,
+      "profit": 4489.08,
+      "margin": 0.2985798918107826
+    },
+    {
+      "month": "2025-06",
+      "segment": "South",
+      "orders": 181,
+      "returns": 21,
+      "revenue": 15835.27,
+      "profit": 5097.47,
+      "margin": 0.3219060994855156
+    },
+    {
+      "month": "2025-06",
+      "segment": "West",
+      "orders": 174,
+      "returns": 17,
+      "revenue": 14392.28,
+      "profit": 4862.51,
+      "margin": 0.3378554336074618
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Net revenue",
+      "numerator": "revenue",
+      "unit": "usd"
+    },
+    {
+      "label": "Contribution profit",
+      "numerator": "profit",
+      "unit": "usd"
+    },
+    {
+      "label": "Contribution margin",
+      "numerator": "profit",
+      "denominator": "revenue",
+      "unit": "percent"
+    },
+    {
+      "label": "Return rate",
+      "numerator": "returns",
+      "denominator": "orders",
+      "unit": "percent"
+    }
+  ],
+  "series": {
+    "label": "Net revenue",
+    "numerator": "revenue",
+    "unit": "usd"
+  },
+  "title": "Retail Growth & Profitability",
+  "subtitle": "Connect customer retention, returns, and contribution economics to commercial decisions. January 2024\u2013June 2025. Monetary values are simulated USD.",
+  "units": {},
+  "columns": [
+    {
+      "key": "month",
+      "label": "Month"
+    },
+    {
+      "key": "segment",
+      "label": "Region"
+    },
+    {
+      "key": "orders",
+      "label": "Orders",
+      "unit": "number"
+    },
+    {
+      "key": "revenue",
+      "label": "Net revenue",
+      "unit": "usd"
+    },
+    {
+      "key": "profit",
+      "label": "Profit",
+      "unit": "usd"
+    },
+    {
+      "key": "margin",
+      "label": "Margin",
+      "unit": "percent"
+    }
+  ]
+}

@@ -1,0 +1,2201 @@
+customer_id,region,channel,signup_month
+1,East,Paid Search,9
+2,West,Paid Search,5
+3,West,Organic,8
+4,West,Organic,6
+5,East,Paid Search,3
+6,North,Paid Search,0
+7,South,Referral,6
+8,West,Referral,0
+9,South,Paid Search,0
+10,West,Referral,6
+11,North,Organic,1
+12,South,Organic,3
+13,West,Referral,2
+14,East,Referral,1
+15,West,Referral,8
+16,East,Organic,2
+17,North,Organic,9
+18,South,Paid Search,1
+19,East,Referral,9
+20,East,Organic,1
+21,West,Referral,0
+22,East,Organic,2
+23,South,Organic,9
+24,West,Organic,5
+25,South,Paid Search,6
+26,South,Organic,0
+27,North,Paid Search,4
+28,South,Referral,8
+29,North,Paid Search,7
+30,East,Organic,0
+31,East,Paid Search,4
+32,West,Organic,4
+33,East,Referral,2
+34,West,Organic,5
+35,West,Referral,9
+36,North,Paid Search,1
+37,West,Referral,9
+38,West,Referral,9
+39,East,Organic,1
+40,North,Organic,4
+41,South,Organic,6
+42,South,Paid Search,3
+43,West,Organic,4
+44,East,Organic,5
+45,East,Paid Search,9
+46,West,Referral,8
+47,East,Organic,6
+48,North,Organic,0
+49,North,Organic,3
+50,West,Referral,6
+51,East,Paid Search,4
+52,South,Organic,8
+53,North,Organic,7
+54,West,Referral,2
+55,North,Organic,4
+56,West,Organic,3
+57,West,Paid Search,4
+58,North,Paid Search,1
+59,South,Paid Search,0
+60,North,Referral,1
+61,East,Paid Search,6
+62,West,Paid Search,6
+63,East,Referral,7
+64,North,Referral,3
+65,East,Organic,5
+66,West,Organic,8
+67,West,Paid Search,8
+68,West,Referral,9
+69,West,Paid Search,6
+70,North,Organic,9
+71,South,Organic,9
+72,East,Paid Search,1
+73,North,Referral,3
+74,South,Organic,3
+75,West,Organic,5
+76,East,Paid Search,0
+77,East,Paid Search,3
+78,West,Referral,7
+79,South,Organic,2
+80,South,Paid Search,8
+81,West,Organic,5
+82,South,Paid Search,4
+83,East,Paid Search,4
+84,South,Organic,1
+85,South,Paid Search,9
+86,West,Organic,3
+87,West,Referral,0
+88,West,Organic,4
+89,East,Referral,9
+90,West,Organic,7
+91,North,Paid Search,4
+92,East,Organic,2
+93,South,Paid Search,8
+94,West,Organic,9
+95,North,Organic,6
+96,North,Organic,1
+97,West,Paid Search,5
+98,West,Paid Search,8
+99,North,Paid Search,8
+100,South,Paid Search,6
+101,North,Referral,4
+102,South,Referral,4
+103,North,Organic,0
+104,West,Organic,5
+105,East,Paid Search,1
+106,East,Paid Search,1
+107,West,Organic,3
+108,North,Paid Search,3
+109,South,Paid Search,4
+110,South,Paid Search,1
+111,North,Paid Search,8
+112,West,Paid Search,5
+113,East,Paid Search,4
+114,North,Organic,2
+115,East,Referral,3
+116,East,Organic,4
+117,North,Paid Search,6
+118,South,Organic,0
+119,North,Paid Search,2
+120,South,Organic,8
+121,South,Organic,4
+122,West,Paid Search,8
+123,North,Referral,4
+124,West,Organic,4
+125,North,Organic,9
+126,North,Paid Search,6
+127,North,Paid Search,1
+128,West,Paid Search,9
+129,North,Organic,7
+130,North,Referral,8
+131,West,Paid Search,2
+132,East,Paid Search,8
+133,North,Referral,4
+134,East,Organic,1
+135,West,Organic,8
+136,North,Organic,3
+137,West,Organic,9
+138,West,Paid Search,4
+139,West,Paid Search,9
+140,East,Paid Search,1
+141,East,Organic,4
+142,West,Organic,0
+143,West,Paid Search,7
+144,East,Paid Search,6
+145,West,Paid Search,7
+146,East,Paid Search,9
+147,East,Referral,9
+148,North,Paid Search,4
+149,West,Paid Search,4
+150,South,Paid Search,8
+151,East,Organic,0
+152,East,Organic,5
+153,East,Organic,2
+154,North,Referral,8
+155,North,Referral,4
+156,North,Paid Search,3
+157,East,Organic,9
+158,East,Paid Search,5
+159,East,Paid Search,6
+160,East,Paid Search,7
+161,North,Paid Search,7
+162,South,Referral,3
+163,East,Paid Search,5
+164,West,Organic,4
+165,East,Organic,9
+166,East,Organic,0
+167,West,Paid Search,0
+168,East,Paid Search,0
+169,South,Organic,6
+170,North,Referral,7
+171,North,Paid Search,6
+172,West,Referral,0
+173,North,Paid Search,9
+174,West,Paid Search,1
+175,North,Paid Search,7
+176,East,Paid Search,4
+177,South,Paid Search,6
+178,South,Organic,5
+179,South,Paid Search,7
+180,East,Referral,0
+181,South,Organic,8
+182,North,Paid Search,8
+183,East,Organic,3
+184,West,Referral,1
+185,South,Organic,3
+186,South,Referral,9
+187,West,Referral,7
+188,South,Paid Search,9
+189,East,Paid Search,6
+190,East,Paid Search,7
+191,South,Paid Search,2
+192,North,Organic,0
+193,South,Paid Search,7
+194,North,Paid Search,8
+195,West,Paid Search,9
+196,West,Paid Search,5
+197,East,Organic,7
+198,South,Paid Search,3
+199,South,Paid Search,0
+200,West,Referral,9
+201,East,Organic,6
+202,West,Organic,3
+203,West,Referral,7
+204,East,Paid Search,1
+205,West,Paid Search,5
+206,North,Paid Search,6
+207,East,Referral,2
+208,West,Paid Search,8
+209,South,Organic,9
+210,South,Referral,6
+211,North,Referral,6
+212,West,Paid Search,1
+213,South,Paid Search,0
+214,North,Organic,8
+215,West,Paid Search,3
+216,South,Paid Search,2
+217,East,Organic,3
+218,East,Paid Search,2
+219,South,Paid Search,5
+220,East,Referral,1
+221,North,Paid Search,4
+222,North,Organic,4
+223,East,Paid Search,1
+224,West,Paid Search,5
+225,West,Referral,7
+226,West,Organic,7
+227,North,Paid Search,8
+228,South,Organic,7
+229,West,Paid Search,3
+230,South,Referral,9
+231,North,Organic,0
+232,East,Paid Search,2
+233,East,Organic,7
+234,South,Organic,9
+235,South,Paid Search,9
+236,South,Organic,0
+237,South,Referral,4
+238,East,Organic,6
+239,South,Paid Search,0
+240,North,Referral,3
+241,East,Referral,3
+242,South,Paid Search,3
+243,East,Organic,3
+244,West,Organic,7
+245,South,Referral,5
+246,West,Paid Search,3
+247,West,Paid Search,0
+248,North,Organic,8
+249,North,Paid Search,3
+250,West,Paid Search,2
+251,West,Organic,8
+252,North,Paid Search,1
+253,East,Paid Search,1
+254,South,Paid Search,9
+255,South,Paid Search,1
+256,North,Paid Search,0
+257,East,Paid Search,1
+258,North,Organic,7
+259,East,Paid Search,1
+260,East,Organic,8
+261,South,Paid Search,1
+262,South,Organic,1
+263,West,Organic,1
+264,East,Organic,5
+265,North,Organic,8
+266,North,Referral,6
+267,East,Paid Search,8
+268,East,Paid Search,9
+269,North,Paid Search,0
+270,West,Paid Search,0
+271,South,Paid Search,7
+272,East,Paid Search,7
+273,North,Paid Search,6
+274,East,Paid Search,4
+275,North,Referral,6
+276,West,Organic,7
+277,South,Organic,7
+278,West,Organic,2
+279,West,Paid Search,5
+280,South,Organic,0
+281,North,Paid Search,0
+282,West,Referral,7
+283,North,Organic,6
+284,South,Paid Search,0
+285,North,Paid Search,6
+286,East,Organic,9
+287,North,Organic,4
+288,West,Organic,2
+289,West,Organic,4
+290,West,Paid Search,1
+291,East,Paid Search,1
+292,South,Paid Search,2
+293,South,Organic,0
+294,South,Organic,8
+295,South,Paid Search,4
+296,North,Organic,9
+297,West,Paid Search,6
+298,South,Organic,0
+299,North,Organic,5
+300,West,Organic,0
+301,South,Paid Search,9
+302,West,Referral,3
+303,East,Organic,2
+304,East,Paid Search,0
+305,East,Organic,5
+306,West,Organic,0
+307,East,Organic,0
+308,West,Paid Search,4
+309,West,Paid Search,3
+310,South,Paid Search,4
+311,North,Referral,9
+312,North,Paid Search,2
+313,West,Organic,0
+314,West,Referral,5
+315,South,Organic,0
+316,North,Referral,3
+317,South,Organic,6
+318,South,Organic,4
+319,North,Referral,6
+320,South,Paid Search,9
+321,West,Referral,6
+322,North,Organic,4
+323,West,Referral,6
+324,North,Paid Search,7
+325,South,Organic,1
+326,West,Referral,5
+327,East,Paid Search,5
+328,East,Paid Search,4
+329,South,Organic,8
+330,West,Organic,0
+331,South,Organic,4
+332,South,Paid Search,4
+333,West,Paid Search,4
+334,East,Paid Search,5
+335,South,Referral,3
+336,South,Organic,9
+337,West,Paid Search,0
+338,South,Organic,4
+339,South,Paid Search,2
+340,West,Referral,9
+341,West,Paid Search,7
+342,East,Referral,2
+343,West,Paid Search,6
+344,North,Organic,2
+345,North,Referral,1
+346,East,Referral,9
+347,North,Organic,1
+348,West,Paid Search,3
+349,North,Paid Search,4
+350,South,Organic,4
+351,North,Organic,7
+352,West,Paid Search,5
+353,South,Paid Search,4
+354,West,Paid Search,2
+355,West,Paid Search,2
+356,North,Paid Search,8
+357,West,Paid Search,2
+358,West,Paid Search,6
+359,North,Paid Search,6
+360,East,Paid Search,0
+361,South,Organic,7
+362,East,Organic,9
+363,North,Paid Search,4
+364,North,Organic,2
+365,South,Paid Search,0
+366,North,Referral,6
+367,East,Paid Search,1
+368,North,Paid Search,6
+369,North,Organic,7
+370,West,Paid Search,4
+371,North,Organic,5
+372,East,Referral,3
+373,West,Referral,4
+374,East,Referral,5
+375,East,Referral,7
+376,West,Referral,1
+377,South,Paid Search,4
+378,East,Organic,3
+379,East,Organic,6
+380,East,Paid Search,7
+381,East,Paid Search,4
+382,North,Organic,7
+383,West,Paid Search,4
+384,North,Referral,0
+385,North,Referral,7
+386,East,Organic,7
+387,South,Organic,8
+388,South,Paid Search,3
+389,East,Paid Search,1
+390,South,Organic,9
+391,East,Paid Search,6
+392,North,Paid Search,6
+393,South,Organic,7
+394,North,Organic,7
+395,South,Referral,1
+396,North,Paid Search,8
+397,West,Paid Search,8
+398,South,Organic,2
+399,East,Paid Search,4
+400,East,Referral,5
+401,West,Referral,7
+402,North,Paid Search,8
+403,North,Organic,5
+404,East,Referral,7
+405,West,Paid Search,3
+406,South,Paid Search,2
+407,West,Organic,1
+408,East,Organic,5
+409,South,Referral,8
+410,South,Organic,0
+411,North,Paid Search,8
+412,North,Organic,4
+413,South,Organic,0
+414,North,Paid Search,4
+415,North,Paid Search,8
+416,East,Paid Search,1
+417,South,Referral,8
+418,South,Referral,7
+419,East,Paid Search,2
+420,South,Paid Search,7
+421,West,Organic,8
+422,East,Paid Search,2
+423,South,Referral,6
+424,South,Organic,0
+425,East,Paid Search,9
+426,South,Referral,5
+427,North,Organic,6
+428,South,Referral,5
+429,North,Referral,2
+430,East,Organic,2
+431,South,Paid Search,0
+432,East,Organic,2
+433,South,Organic,7
+434,South,Paid Search,5
+435,North,Referral,3
+436,East,Organic,4
+437,West,Organic,2
+438,East,Paid Search,8
+439,South,Referral,5
+440,East,Referral,2
+441,West,Paid Search,4
+442,East,Organic,1
+443,South,Paid Search,4
+444,South,Paid Search,4
+445,South,Organic,8
+446,East,Referral,2
+447,West,Paid Search,0
+448,North,Paid Search,7
+449,North,Organic,4
+450,North,Referral,0
+451,East,Referral,9
+452,East,Organic,8
+453,West,Organic,9
+454,West,Paid Search,7
+455,West,Organic,0
+456,East,Paid Search,3
+457,South,Paid Search,3
+458,East,Referral,4
+459,West,Referral,8
+460,West,Paid Search,8
+461,South,Paid Search,8
+462,South,Paid Search,0
+463,East,Organic,5
+464,East,Paid Search,8
+465,West,Organic,7
+466,East,Organic,6
+467,West,Referral,2
+468,South,Paid Search,2
+469,North,Organic,3
+470,South,Referral,0
+471,North,Organic,9
+472,North,Organic,6
+473,East,Paid Search,5
+474,West,Paid Search,0
+475,East,Referral,1
+476,West,Organic,2
+477,North,Paid Search,8
+478,East,Organic,2
+479,West,Paid Search,4
+480,North,Organic,0
+481,West,Paid Search,6
+482,North,Referral,7
+483,South,Organic,5
+484,South,Paid Search,6
+485,North,Paid Search,6
+486,East,Referral,9
+487,South,Paid Search,1
+488,East,Organic,3
+489,South,Paid Search,2
+490,North,Organic,0
+491,East,Paid Search,9
+492,North,Referral,6
+493,West,Referral,8
+494,South,Organic,7
+495,North,Referral,1
+496,West,Paid Search,6
+497,North,Paid Search,7
+498,North,Organic,9
+499,North,Organic,4
+500,West,Organic,8
+501,North,Referral,9
+502,South,Organic,1
+503,East,Organic,1
+504,South,Paid Search,5
+505,West,Organic,0
+506,South,Paid Search,4
+507,North,Paid Search,3
+508,South,Paid Search,2
+509,East,Paid Search,2
+510,North,Organic,0
+511,North,Paid Search,8
+512,East,Organic,0
+513,South,Paid Search,5
+514,South,Organic,1
+515,East,Referral,2
+516,South,Paid Search,8
+517,East,Referral,1
+518,South,Paid Search,5
+519,East,Paid Search,9
+520,East,Organic,1
+521,South,Paid Search,4
+522,North,Paid Search,1
+523,West,Paid Search,1
+524,West,Organic,4
+525,South,Referral,2
+526,North,Organic,1
+527,East,Organic,8
+528,South,Organic,3
+529,North,Paid Search,7
+530,East,Paid Search,4
+531,West,Paid Search,2
+532,East,Referral,2
+533,West,Organic,9
+534,South,Paid Search,6
+535,North,Paid Search,9
+536,East,Paid Search,0
+537,West,Organic,0
+538,North,Paid Search,2
+539,East,Paid Search,0
+540,South,Organic,2
+541,East,Organic,8
+542,North,Organic,2
+543,South,Referral,1
+544,West,Organic,0
+545,East,Referral,8
+546,East,Paid Search,8
+547,South,Organic,4
+548,East,Paid Search,2
+549,North,Paid Search,8
+550,North,Referral,1
+551,South,Organic,4
+552,West,Organic,9
+553,South,Paid Search,6
+554,North,Paid Search,2
+555,West,Organic,1
+556,East,Referral,9
+557,West,Organic,0
+558,North,Organic,4
+559,East,Organic,8
+560,West,Referral,4
+561,West,Organic,5
+562,West,Referral,7
+563,South,Referral,7
+564,West,Referral,5
+565,North,Paid Search,0
+566,South,Organic,4
+567,South,Organic,7
+568,East,Paid Search,9
+569,West,Organic,6
+570,East,Referral,9
+571,East,Organic,6
+572,North,Referral,9
+573,East,Organic,1
+574,North,Organic,3
+575,West,Paid Search,1
+576,South,Organic,0
+577,North,Organic,1
+578,North,Organic,9
+579,North,Referral,3
+580,East,Organic,6
+581,East,Paid Search,4
+582,East,Organic,8
+583,North,Organic,3
+584,West,Paid Search,2
+585,North,Organic,7
+586,West,Paid Search,5
+587,East,Referral,6
+588,North,Organic,1
+589,North,Paid Search,7
+590,East,Paid Search,6
+591,North,Organic,5
+592,West,Referral,1
+593,East,Paid Search,3
+594,West,Paid Search,8
+595,East,Organic,1
+596,South,Paid Search,5
+597,West,Referral,9
+598,East,Organic,9
+599,North,Paid Search,9
+600,North,Paid Search,8
+601,West,Referral,9
+602,South,Paid Search,6
+603,East,Organic,3
+604,West,Organic,0
+605,West,Referral,1
+606,South,Paid Search,0
+607,North,Organic,1
+608,East,Organic,9
+609,South,Organic,5
+610,East,Referral,7
+611,North,Referral,5
+612,West,Organic,6
+613,North,Organic,2
+614,South,Organic,8
+615,West,Paid Search,0
+616,South,Organic,9
+617,East,Organic,8
+618,East,Paid Search,5
+619,South,Paid Search,9
+620,East,Referral,9
+621,East,Organic,7
+622,East,Organic,9
+623,West,Referral,6
+624,North,Paid Search,1
+625,South,Paid Search,0
+626,West,Paid Search,7
+627,East,Organic,0
+628,South,Referral,7
+629,North,Paid Search,1
+630,North,Organic,1
+631,East,Organic,3
+632,East,Referral,7
+633,South,Paid Search,6
+634,South,Organic,6
+635,West,Organic,1
+636,South,Paid Search,9
+637,West,Organic,3
+638,East,Organic,7
+639,North,Organic,3
+640,North,Organic,6
+641,East,Organic,6
+642,East,Organic,4
+643,South,Organic,3
+644,South,Organic,0
+645,East,Paid Search,3
+646,South,Paid Search,1
+647,North,Paid Search,9
+648,North,Paid Search,4
+649,East,Referral,3
+650,East,Paid Search,5
+651,North,Paid Search,9
+652,West,Paid Search,8
+653,South,Referral,4
+654,East,Paid Search,0
+655,North,Organic,0
+656,West,Paid Search,6
+657,East,Paid Search,8
+658,North,Organic,1
+659,South,Organic,4
+660,West,Referral,6
+661,West,Referral,0
+662,West,Paid Search,3
+663,West,Organic,0
+664,West,Paid Search,9
+665,East,Organic,6
+666,South,Paid Search,1
+667,West,Referral,5
+668,East,Paid Search,8
+669,East,Organic,8
+670,East,Organic,0
+671,South,Organic,6
+672,North,Paid Search,6
+673,West,Organic,3
+674,East,Paid Search,8
+675,West,Referral,1
+676,North,Referral,9
+677,North,Organic,7
+678,North,Organic,8
+679,South,Organic,8
+680,South,Paid Search,9
+681,West,Referral,3
+682,East,Organic,6
+683,East,Organic,1
+684,East,Paid Search,1
+685,North,Organic,3
+686,West,Paid Search,4
+687,South,Paid Search,5
+688,North,Paid Search,6
+689,West,Organic,3
+690,West,Referral,1
+691,West,Paid Search,7
+692,West,Organic,6
+693,North,Referral,6
+694,South,Organic,5
+695,East,Paid Search,9
+696,North,Paid Search,7
+697,North,Organic,6
+698,North,Organic,3
+699,West,Paid Search,3
+700,South,Organic,9
+701,West,Organic,0
+702,East,Paid Search,3
+703,South,Referral,1
+704,East,Organic,5
+705,West,Paid Search,7
+706,South,Paid Search,8
+707,West,Paid Search,6
+708,North,Organic,8
+709,North,Referral,2
+710,East,Paid Search,4
+711,West,Paid Search,8
+712,South,Organic,5
+713,South,Organic,0
+714,West,Referral,6
+715,East,Organic,9
+716,South,Paid Search,3
+717,West,Referral,8
+718,West,Organic,0
+719,North,Organic,4
+720,West,Referral,3
+721,North,Organic,7
+722,North,Referral,3
+723,North,Paid Search,4
+724,East,Paid Search,5
+725,East,Paid Search,6
+726,North,Organic,2
+727,North,Paid Search,2
+728,South,Referral,9
+729,West,Referral,7
+730,West,Organic,1
+731,East,Paid Search,8
+732,North,Organic,8
+733,North,Paid Search,3
+734,East,Paid Search,1
+735,North,Referral,3
+736,West,Paid Search,9
+737,East,Organic,0
+738,West,Organic,1
+739,North,Organic,0
+740,West,Organic,8
+741,West,Paid Search,2
+742,South,Referral,5
+743,West,Paid Search,2
+744,West,Paid Search,6
+745,East,Organic,5
+746,North,Organic,5
+747,North,Paid Search,5
+748,North,Referral,0
+749,South,Organic,0
+750,West,Organic,6
+751,South,Organic,7
+752,West,Paid Search,0
+753,East,Organic,7
+754,North,Organic,3
+755,West,Organic,5
+756,East,Organic,7
+757,East,Paid Search,5
+758,West,Referral,5
+759,East,Referral,0
+760,East,Organic,4
+761,East,Paid Search,9
+762,West,Paid Search,6
+763,West,Paid Search,7
+764,West,Paid Search,4
+765,West,Paid Search,6
+766,North,Paid Search,1
+767,South,Paid Search,4
+768,West,Organic,8
+769,West,Paid Search,0
+770,North,Organic,3
+771,West,Organic,6
+772,East,Paid Search,9
+773,North,Paid Search,9
+774,East,Organic,0
+775,North,Organic,6
+776,East,Paid Search,7
+777,North,Organic,0
+778,East,Referral,1
+779,North,Organic,6
+780,West,Organic,4
+781,West,Paid Search,3
+782,East,Organic,6
+783,South,Paid Search,6
+784,North,Organic,4
+785,East,Referral,1
+786,West,Paid Search,3
+787,West,Organic,6
+788,South,Organic,2
+789,West,Paid Search,3
+790,South,Paid Search,6
+791,North,Paid Search,9
+792,East,Paid Search,3
+793,West,Paid Search,1
+794,West,Organic,3
+795,East,Paid Search,3
+796,West,Organic,4
+797,West,Paid Search,6
+798,East,Paid Search,7
+799,South,Organic,1
+800,West,Paid Search,6
+801,South,Paid Search,9
+802,North,Referral,6
+803,South,Paid Search,4
+804,East,Organic,0
+805,South,Organic,1
+806,West,Paid Search,1
+807,South,Organic,4
+808,South,Paid Search,6
+809,South,Paid Search,7
+810,North,Organic,1
+811,South,Organic,4
+812,East,Organic,4
+813,South,Paid Search,8
+814,West,Organic,2
+815,South,Referral,5
+816,West,Paid Search,1
+817,South,Organic,8
+818,East,Referral,1
+819,South,Organic,9
+820,West,Paid Search,3
+821,East,Organic,0
+822,West,Referral,2
+823,East,Referral,3
+824,North,Paid Search,6
+825,North,Organic,3
+826,East,Organic,4
+827,East,Organic,8
+828,West,Organic,3
+829,South,Organic,6
+830,South,Referral,4
+831,West,Organic,9
+832,North,Paid Search,2
+833,East,Organic,7
+834,West,Paid Search,5
+835,East,Referral,7
+836,North,Paid Search,3
+837,West,Paid Search,3
+838,North,Paid Search,4
+839,West,Referral,2
+840,South,Paid Search,0
+841,South,Organic,7
+842,East,Paid Search,8
+843,East,Referral,9
+844,South,Organic,6
+845,North,Paid Search,7
+846,North,Organic,2
+847,West,Organic,4
+848,North,Organic,3
+849,West,Organic,4
+850,East,Paid Search,7
+851,North,Paid Search,6
+852,West,Paid Search,1
+853,West,Organic,2
+854,West,Paid Search,5
+855,West,Organic,9
+856,South,Paid Search,4
+857,West,Paid Search,7
+858,South,Organic,4
+859,East,Organic,6
+860,West,Paid Search,9
+861,North,Paid Search,7
+862,East,Paid Search,3
+863,West,Organic,8
+864,East,Organic,8
+865,North,Paid Search,3
+866,North,Referral,6
+867,West,Paid Search,8
+868,East,Paid Search,2
+869,North,Paid Search,8
+870,West,Organic,8
+871,South,Paid Search,8
+872,East,Paid Search,9
+873,South,Paid Search,2
+874,North,Paid Search,9
+875,South,Organic,9
+876,West,Organic,1
+877,West,Paid Search,6
+878,East,Paid Search,4
+879,South,Referral,1
+880,East,Paid Search,1
+881,South,Organic,2
+882,West,Paid Search,8
+883,North,Organic,0
+884,East,Organic,5
+885,South,Referral,5
+886,East,Organic,8
+887,East,Organic,0
+888,North,Paid Search,7
+889,South,Paid Search,3
+890,West,Paid Search,6
+891,North,Organic,3
+892,West,Referral,2
+893,South,Paid Search,7
+894,North,Paid Search,9
+895,East,Paid Search,0
+896,North,Referral,1
+897,North,Organic,0
+898,North,Organic,0
+899,West,Paid Search,9
+900,North,Organic,1
+901,West,Paid Search,6
+902,West,Referral,3
+903,East,Paid Search,4
+904,South,Referral,3
+905,South,Organic,3
+906,North,Paid Search,5
+907,North,Paid Search,9
+908,West,Paid Search,4
+909,East,Paid Search,1
+910,North,Paid Search,5
+911,South,Organic,3
+912,West,Organic,2
+913,South,Organic,9
+914,East,Organic,5
+915,West,Paid Search,0
+916,North,Organic,8
+917,West,Referral,3
+918,South,Organic,4
+919,South,Referral,8
+920,North,Referral,5
+921,North,Paid Search,5
+922,North,Paid Search,4
+923,West,Paid Search,6
+924,North,Organic,6
+925,South,Organic,1
+926,West,Paid Search,5
+927,West,Paid Search,4
+928,South,Paid Search,4
+929,West,Paid Search,3
+930,South,Referral,6
+931,West,Organic,9
+932,South,Paid Search,5
+933,West,Referral,3
+934,South,Paid Search,2
+935,South,Paid Search,5
+936,West,Organic,7
+937,East,Referral,0
+938,North,Referral,7
+939,East,Organic,3
+940,East,Referral,9
+941,South,Referral,5
+942,East,Organic,8
+943,West,Organic,3
+944,West,Paid Search,4
+945,West,Paid Search,1
+946,South,Organic,0
+947,East,Organic,5
+948,South,Paid Search,1
+949,West,Paid Search,5
+950,North,Organic,2
+951,North,Organic,6
+952,West,Referral,3
+953,North,Paid Search,5
+954,North,Paid Search,0
+955,North,Referral,1
+956,North,Paid Search,1
+957,North,Organic,4
+958,North,Organic,6
+959,East,Paid Search,2
+960,East,Referral,5
+961,North,Referral,4
+962,East,Referral,3
+963,South,Organic,6
+964,West,Referral,6
+965,North,Organic,6
+966,East,Referral,2
+967,West,Paid Search,7
+968,North,Organic,0
+969,West,Paid Search,3
+970,South,Organic,2
+971,South,Paid Search,6
+972,South,Referral,2
+973,South,Organic,7
+974,North,Paid Search,0
+975,South,Organic,8
+976,East,Organic,7
+977,South,Paid Search,7
+978,East,Paid Search,4
+979,South,Organic,8
+980,East,Organic,9
+981,West,Referral,7
+982,East,Organic,2
+983,North,Paid Search,3
+984,North,Paid Search,9
+985,West,Referral,4
+986,North,Organic,0
+987,West,Organic,0
+988,West,Referral,9
+989,West,Organic,8
+990,South,Referral,5
+991,East,Organic,6
+992,East,Referral,9
+993,North,Organic,7
+994,East,Organic,3
+995,North,Paid Search,5
+996,South,Referral,1
+997,South,Paid Search,0
+998,North,Paid Search,3
+999,West,Organic,5
+1000,West,Paid Search,5
+1001,West,Paid Search,9
+1002,South,Referral,7
+1003,North,Paid Search,8
+1004,North,Referral,8
+1005,West,Paid Search,2
+1006,North,Paid Search,1
+1007,South,Organic,8
+1008,West,Referral,2
+1009,South,Referral,3
+1010,South,Referral,6
+1011,North,Organic,1
+1012,West,Paid Search,4
+1013,South,Paid Search,1
+1014,South,Referral,5
+1015,South,Paid Search,3
+1016,East,Organic,0
+1017,South,Organic,6
+1018,South,Paid Search,1
+1019,East,Organic,3
+1020,West,Paid Search,6
+1021,West,Paid Search,4
+1022,West,Paid Search,9
+1023,West,Organic,5
+1024,North,Referral,5
+1025,South,Organic,1
+1026,South,Organic,1
+1027,East,Referral,5
+1028,South,Organic,6
+1029,East,Paid Search,3
+1030,North,Paid Search,9
+1031,North,Paid Search,3
+1032,South,Paid Search,6
+1033,West,Referral,8
+1034,East,Paid Search,5
+1035,West,Paid Search,2
+1036,South,Paid Search,1
+1037,East,Organic,7
+1038,North,Paid Search,6
+1039,North,Organic,8
+1040,West,Referral,6
+1041,East,Paid Search,6
+1042,South,Referral,7
+1043,South,Paid Search,6
+1044,North,Paid Search,5
+1045,South,Organic,6
+1046,North,Organic,8
+1047,West,Paid Search,0
+1048,South,Organic,2
+1049,North,Organic,8
+1050,North,Organic,3
+1051,South,Referral,3
+1052,East,Organic,9
+1053,West,Paid Search,2
+1054,South,Organic,6
+1055,North,Paid Search,6
+1056,North,Organic,8
+1057,West,Referral,5
+1058,North,Organic,4
+1059,East,Referral,5
+1060,West,Paid Search,6
+1061,South,Paid Search,2
+1062,South,Organic,0
+1063,South,Referral,2
+1064,West,Paid Search,9
+1065,East,Organic,5
+1066,South,Organic,6
+1067,West,Paid Search,2
+1068,East,Paid Search,7
+1069,West,Paid Search,6
+1070,East,Referral,5
+1071,East,Organic,3
+1072,North,Organic,1
+1073,East,Organic,8
+1074,West,Referral,0
+1075,East,Paid Search,2
+1076,North,Organic,9
+1077,East,Referral,8
+1078,West,Organic,7
+1079,South,Paid Search,0
+1080,South,Organic,9
+1081,East,Referral,4
+1082,South,Referral,9
+1083,West,Organic,0
+1084,South,Paid Search,3
+1085,East,Referral,6
+1086,East,Referral,1
+1087,South,Organic,5
+1088,East,Paid Search,6
+1089,West,Paid Search,7
+1090,West,Organic,9
+1091,West,Organic,2
+1092,South,Paid Search,1
+1093,East,Paid Search,7
+1094,North,Referral,6
+1095,West,Organic,5
+1096,South,Paid Search,2
+1097,South,Paid Search,4
+1098,South,Paid Search,3
+1099,South,Paid Search,1
+1100,South,Referral,6
+1101,East,Paid Search,7
+1102,East,Paid Search,1
+1103,East,Paid Search,8
+1104,North,Organic,2
+1105,South,Paid Search,8
+1106,West,Paid Search,9
+1107,West,Referral,9
+1108,South,Organic,8
+1109,East,Organic,8
+1110,East,Paid Search,3
+1111,East,Paid Search,9
+1112,East,Referral,3
+1113,North,Organic,0
+1114,East,Organic,4
+1115,North,Organic,9
+1116,East,Organic,7
+1117,East,Paid Search,8
+1118,East,Paid Search,9
+1119,West,Paid Search,3
+1120,West,Paid Search,6
+1121,West,Paid Search,6
+1122,South,Paid Search,1
+1123,North,Referral,9
+1124,West,Organic,4
+1125,North,Organic,3
+1126,North,Organic,7
+1127,South,Organic,7
+1128,East,Organic,4
+1129,South,Organic,8
+1130,North,Paid Search,8
+1131,East,Paid Search,0
+1132,East,Referral,7
+1133,West,Organic,0
+1134,East,Referral,5
+1135,East,Paid Search,8
+1136,South,Referral,9
+1137,North,Organic,0
+1138,West,Referral,8
+1139,South,Organic,8
+1140,South,Organic,7
+1141,South,Paid Search,2
+1142,North,Organic,1
+1143,East,Referral,7
+1144,South,Paid Search,2
+1145,East,Paid Search,4
+1146,North,Organic,3
+1147,South,Paid Search,3
+1148,North,Referral,9
+1149,North,Referral,2
+1150,West,Paid Search,1
+1151,West,Paid Search,1
+1152,North,Organic,6
+1153,East,Referral,3
+1154,West,Organic,0
+1155,South,Referral,0
+1156,East,Organic,3
+1157,South,Organic,5
+1158,South,Organic,8
+1159,West,Organic,9
+1160,West,Organic,0
+1161,South,Paid Search,2
+1162,South,Referral,8
+1163,West,Paid Search,6
+1164,South,Organic,9
+1165,North,Organic,7
+1166,East,Organic,9
+1167,South,Organic,2
+1168,North,Organic,8
+1169,South,Organic,3
+1170,East,Referral,8
+1171,South,Organic,8
+1172,North,Organic,3
+1173,South,Organic,0
+1174,East,Referral,7
+1175,East,Paid Search,7
+1176,East,Referral,1
+1177,North,Paid Search,2
+1178,East,Paid Search,9
+1179,West,Paid Search,6
+1180,East,Paid Search,5
+1181,North,Organic,7
+1182,West,Referral,8
+1183,West,Organic,0
+1184,West,Organic,1
+1185,East,Referral,7
+1186,South,Referral,2
+1187,South,Organic,0
+1188,South,Organic,9
+1189,South,Organic,6
+1190,East,Paid Search,8
+1191,North,Organic,5
+1192,North,Referral,2
+1193,West,Organic,5
+1194,South,Paid Search,2
+1195,North,Paid Search,7
+1196,West,Organic,9
+1197,West,Paid Search,3
+1198,North,Organic,2
+1199,North,Organic,6
+1200,North,Organic,8
+1201,West,Organic,1
+1202,West,Paid Search,7
+1203,South,Paid Search,3
+1204,West,Paid Search,9
+1205,East,Organic,4
+1206,East,Organic,7
+1207,North,Paid Search,3
+1208,East,Organic,9
+1209,North,Paid Search,5
+1210,North,Organic,4
+1211,North,Paid Search,2
+1212,East,Organic,1
+1213,East,Referral,5
+1214,West,Paid Search,0
+1215,East,Paid Search,9
+1216,East,Organic,8
+1217,West,Referral,8
+1218,East,Paid Search,0
+1219,North,Referral,2
+1220,East,Paid Search,9
+1221,West,Referral,8
+1222,West,Organic,7
+1223,North,Paid Search,7
+1224,West,Paid Search,4
+1225,East,Paid Search,4
+1226,West,Referral,5
+1227,East,Organic,3
+1228,North,Referral,4
+1229,East,Paid Search,1
+1230,South,Organic,1
+1231,East,Organic,5
+1232,South,Referral,8
+1233,North,Paid Search,6
+1234,East,Referral,6
+1235,East,Organic,1
+1236,East,Paid Search,6
+1237,North,Referral,3
+1238,North,Paid Search,2
+1239,East,Organic,4
+1240,North,Organic,7
+1241,West,Referral,3
+1242,South,Referral,3
+1243,West,Organic,4
+1244,West,Organic,8
+1245,East,Paid Search,0
+1246,South,Paid Search,7
+1247,West,Paid Search,8
+1248,North,Organic,3
+1249,East,Referral,0
+1250,South,Paid Search,1
+1251,East,Referral,1
+1252,East,Paid Search,9
+1253,East,Organic,1
+1254,West,Paid Search,0
+1255,West,Referral,1
+1256,West,Referral,5
+1257,West,Organic,4
+1258,West,Organic,2
+1259,North,Referral,9
+1260,East,Referral,3
+1261,West,Referral,5
+1262,East,Organic,9
+1263,South,Paid Search,8
+1264,East,Paid Search,6
+1265,West,Paid Search,3
+1266,West,Paid Search,0
+1267,North,Paid Search,0
+1268,West,Organic,2
+1269,North,Paid Search,6
+1270,North,Paid Search,9
+1271,East,Paid Search,8
+1272,East,Organic,6
+1273,North,Organic,9
+1274,West,Organic,0
+1275,North,Organic,7
+1276,South,Organic,1
+1277,East,Organic,4
+1278,West,Organic,2
+1279,East,Organic,6
+1280,East,Organic,3
+1281,West,Referral,9
+1282,North,Organic,4
+1283,East,Referral,6
+1284,North,Referral,2
+1285,West,Paid Search,9
+1286,North,Referral,1
+1287,West,Paid Search,7
+1288,South,Referral,6
+1289,North,Paid Search,4
+1290,South,Paid Search,1
+1291,West,Organic,5
+1292,North,Organic,5
+1293,North,Paid Search,8
+1294,South,Referral,1
+1295,East,Referral,2
+1296,North,Referral,8
+1297,South,Paid Search,3
+1298,West,Paid Search,1
+1299,West,Referral,1
+1300,North,Paid Search,4
+1301,East,Referral,7
+1302,South,Paid Search,4
+1303,South,Organic,0
+1304,West,Paid Search,6
+1305,East,Paid Search,4
+1306,South,Paid Search,2
+1307,East,Referral,7
+1308,South,Paid Search,1
+1309,East,Paid Search,3
+1310,South,Organic,3
+1311,North,Paid Search,7
+1312,East,Paid Search,1
+1313,North,Paid Search,7
+1314,East,Paid Search,6
+1315,East,Referral,9
+1316,West,Organic,7
+1317,South,Organic,6
+1318,East,Paid Search,5
+1319,North,Paid Search,4
+1320,North,Paid Search,6
+1321,East,Referral,0
+1322,West,Referral,8
+1323,South,Paid Search,4
+1324,North,Paid Search,7
+1325,South,Paid Search,4
+1326,East,Organic,6
+1327,North,Organic,7
+1328,East,Organic,6
+1329,East,Paid Search,5
+1330,North,Paid Search,8
+1331,West,Organic,5
+1332,South,Organic,0
+1333,South,Organic,4
+1334,South,Referral,4
+1335,South,Organic,3
+1336,North,Paid Search,1
+1337,East,Paid Search,2
+1338,West,Referral,9
+1339,North,Paid Search,3
+1340,North,Paid Search,0
+1341,West,Organic,3
+1342,East,Organic,5
+1343,East,Paid Search,7
+1344,East,Paid Search,2
+1345,East,Referral,3
+1346,West,Paid Search,1
+1347,East,Paid Search,4
+1348,South,Paid Search,2
+1349,North,Referral,2
+1350,West,Referral,0
+1351,West,Organic,9
+1352,North,Organic,8
+1353,North,Organic,3
+1354,South,Organic,6
+1355,West,Organic,0
+1356,South,Paid Search,7
+1357,North,Organic,6
+1358,East,Organic,0
+1359,East,Organic,5
+1360,North,Organic,0
+1361,South,Organic,5
+1362,West,Paid Search,0
+1363,South,Referral,1
+1364,West,Referral,8
+1365,South,Referral,4
+1366,East,Paid Search,5
+1367,East,Referral,9
+1368,East,Organic,8
+1369,West,Referral,7
+1370,South,Organic,9
+1371,West,Organic,5
+1372,West,Organic,1
+1373,West,Paid Search,4
+1374,East,Organic,6
+1375,North,Referral,6
+1376,North,Organic,0
+1377,East,Paid Search,1
+1378,West,Referral,0
+1379,South,Paid Search,3
+1380,South,Paid Search,3
+1381,West,Paid Search,9
+1382,West,Paid Search,8
+1383,North,Organic,1
+1384,East,Organic,6
+1385,East,Referral,0
+1386,East,Referral,7
+1387,East,Paid Search,7
+1388,South,Organic,3
+1389,West,Organic,0
+1390,East,Organic,4
+1391,South,Referral,3
+1392,South,Paid Search,0
+1393,South,Paid Search,3
+1394,East,Paid Search,2
+1395,West,Organic,9
+1396,North,Organic,8
+1397,West,Organic,1
+1398,West,Referral,2
+1399,West,Paid Search,2
+1400,South,Paid Search,2
+1401,North,Paid Search,4
+1402,South,Paid Search,4
+1403,South,Organic,6
+1404,North,Referral,6
+1405,East,Referral,4
+1406,East,Organic,6
+1407,East,Referral,8
+1408,North,Organic,0
+1409,South,Organic,1
+1410,West,Paid Search,9
+1411,East,Paid Search,3
+1412,East,Organic,2
+1413,South,Organic,3
+1414,West,Referral,7
+1415,North,Referral,9
+1416,South,Paid Search,9
+1417,South,Paid Search,2
+1418,North,Paid Search,4
+1419,East,Paid Search,2
+1420,South,Organic,9
+1421,North,Organic,5
+1422,North,Organic,1
+1423,West,Organic,6
+1424,East,Paid Search,0
+1425,East,Organic,1
+1426,West,Referral,2
+1427,North,Paid Search,3
+1428,South,Organic,6
+1429,West,Organic,1
+1430,West,Organic,0
+1431,East,Organic,7
+1432,North,Paid Search,5
+1433,West,Paid Search,3
+1434,South,Organic,1
+1435,North,Organic,1
+1436,East,Referral,9
+1437,South,Paid Search,2
+1438,North,Organic,8
+1439,West,Referral,5
+1440,West,Organic,7
+1441,East,Paid Search,7
+1442,North,Paid Search,8
+1443,East,Organic,1
+1444,North,Organic,0
+1445,West,Organic,1
+1446,West,Referral,8
+1447,East,Organic,5
+1448,West,Paid Search,4
+1449,South,Organic,7
+1450,West,Paid Search,0
+1451,West,Referral,9
+1452,East,Paid Search,1
+1453,West,Referral,2
+1454,East,Organic,9
+1455,North,Organic,4
+1456,North,Paid Search,8
+1457,West,Paid Search,1
+1458,East,Organic,5
+1459,North,Paid Search,5
+1460,West,Referral,2
+1461,West,Paid Search,9
+1462,East,Paid Search,7
+1463,East,Organic,9
+1464,North,Organic,2
+1465,South,Paid Search,5
+1466,North,Organic,0
+1467,West,Referral,0
+1468,North,Referral,8
+1469,North,Referral,6
+1470,East,Organic,0
+1471,East,Referral,8
+1472,East,Paid Search,0
+1473,East,Organic,8
+1474,West,Organic,4
+1475,East,Organic,3
+1476,East,Paid Search,9
+1477,North,Paid Search,1
+1478,South,Paid Search,5
+1479,West,Referral,6
+1480,South,Paid Search,7
+1481,West,Referral,4
+1482,East,Organic,5
+1483,South,Paid Search,8
+1484,West,Organic,2
+1485,North,Paid Search,7
+1486,East,Organic,4
+1487,East,Organic,5
+1488,East,Paid Search,1
+1489,East,Organic,1
+1490,East,Organic,5
+1491,North,Paid Search,4
+1492,West,Referral,2
+1493,East,Referral,4
+1494,North,Paid Search,8
+1495,South,Paid Search,6
+1496,West,Referral,4
+1497,West,Paid Search,9
+1498,South,Paid Search,7
+1499,South,Organic,1
+1500,East,Paid Search,9
+1501,West,Paid Search,3
+1502,West,Referral,7
+1503,East,Organic,8
+1504,West,Paid Search,3
+1505,East,Organic,3
+1506,North,Organic,7
+1507,North,Referral,5
+1508,West,Referral,4
+1509,South,Paid Search,4
+1510,South,Paid Search,7
+1511,East,Organic,8
+1512,South,Organic,8
+1513,West,Organic,1
+1514,North,Paid Search,1
+1515,South,Paid Search,5
+1516,East,Referral,1
+1517,West,Paid Search,8
+1518,West,Paid Search,2
+1519,West,Paid Search,3
+1520,West,Paid Search,6
+1521,West,Paid Search,1
+1522,West,Organic,5
+1523,West,Referral,7
+1524,West,Paid Search,7
+1525,North,Referral,2
+1526,East,Organic,8
+1527,South,Organic,6
+1528,North,Paid Search,7
+1529,East,Paid Search,1
+1530,North,Organic,7
+1531,East,Organic,7
+1532,South,Paid Search,3
+1533,North,Referral,7
+1534,East,Paid Search,3
+1535,East,Referral,5
+1536,South,Organic,9
+1537,East,Organic,3
+1538,East,Referral,5
+1539,South,Referral,8
+1540,South,Paid Search,6
+1541,West,Organic,3
+1542,East,Referral,5
+1543,West,Referral,0
+1544,West,Organic,0
+1545,East,Organic,6
+1546,East,Paid Search,9
+1547,North,Paid Search,5
+1548,North,Paid Search,6
+1549,West,Paid Search,7
+1550,West,Organic,8
+1551,South,Organic,0
+1552,East,Organic,2
+1553,South,Paid Search,5
+1554,West,Paid Search,4
+1555,South,Paid Search,5
+1556,North,Organic,3
+1557,North,Referral,8
+1558,West,Organic,1
+1559,North,Organic,4
+1560,West,Referral,5
+1561,North,Organic,4
+1562,East,Paid Search,8
+1563,West,Organic,0
+1564,North,Referral,3
+1565,East,Paid Search,1
+1566,South,Paid Search,9
+1567,East,Referral,6
+1568,South,Paid Search,8
+1569,South,Organic,6
+1570,East,Paid Search,3
+1571,North,Referral,3
+1572,East,Paid Search,3
+1573,West,Referral,0
+1574,South,Paid Search,4
+1575,West,Organic,8
+1576,North,Paid Search,1
+1577,East,Referral,3
+1578,North,Paid Search,1
+1579,East,Paid Search,8
+1580,South,Organic,5
+1581,South,Paid Search,7
+1582,North,Paid Search,0
+1583,South,Paid Search,7
+1584,East,Organic,6
+1585,West,Organic,0
+1586,West,Organic,0
+1587,North,Referral,7
+1588,South,Paid Search,5
+1589,South,Paid Search,3
+1590,North,Paid Search,1
+1591,South,Paid Search,5
+1592,North,Organic,4
+1593,East,Paid Search,7
+1594,East,Paid Search,3
+1595,East,Referral,1
+1596,North,Paid Search,3
+1597,North,Organic,2
+1598,North,Paid Search,5
+1599,South,Referral,2
+1600,West,Referral,5
+1601,East,Paid Search,4
+1602,South,Paid Search,8
+1603,South,Referral,0
+1604,North,Organic,1
+1605,North,Paid Search,9
+1606,North,Paid Search,2
+1607,West,Paid Search,0
+1608,East,Organic,2
+1609,South,Referral,5
+1610,South,Paid Search,5
+1611,North,Organic,9
+1612,South,Organic,1
+1613,North,Organic,4
+1614,North,Paid Search,5
+1615,North,Paid Search,2
+1616,West,Paid Search,4
+1617,South,Organic,3
+1618,South,Organic,3
+1619,East,Organic,4
+1620,West,Organic,8
+1621,North,Organic,0
+1622,South,Paid Search,1
+1623,West,Referral,1
+1624,South,Paid Search,8
+1625,North,Organic,5
+1626,West,Organic,5
+1627,South,Paid Search,1
+1628,South,Organic,1
+1629,North,Referral,3
+1630,East,Paid Search,8
+1631,North,Referral,3
+1632,South,Organic,3
+1633,North,Organic,0
+1634,West,Organic,0
+1635,East,Paid Search,7
+1636,South,Paid Search,6
+1637,North,Paid Search,7
+1638,West,Referral,9
+1639,South,Paid Search,0
+1640,East,Referral,4
+1641,North,Paid Search,2
+1642,South,Organic,5
+1643,South,Referral,9
+1644,South,Paid Search,8
+1645,East,Organic,5
+1646,West,Referral,5
+1647,South,Referral,8
+1648,South,Organic,2
+1649,South,Referral,9
+1650,South,Organic,2
+1651,North,Organic,3
+1652,West,Organic,0
+1653,South,Organic,9
+1654,North,Referral,8
+1655,East,Organic,7
+1656,East,Organic,8
+1657,South,Organic,0
+1658,East,Paid Search,9
+1659,East,Referral,3
+1660,South,Paid Search,6
+1661,East,Organic,4
+1662,West,Organic,9
+1663,East,Organic,0
+1664,East,Referral,5
+1665,North,Referral,8
+1666,North,Referral,5
+1667,South,Paid Search,8
+1668,East,Paid Search,2
+1669,East,Paid Search,3
+1670,North,Referral,1
+1671,North,Paid Search,0
+1672,West,Paid Search,0
+1673,North,Paid Search,9
+1674,West,Paid Search,6
+1675,South,Paid Search,5
+1676,West,Paid Search,7
+1677,East,Paid Search,6
+1678,West,Referral,1
+1679,East,Paid Search,0
+1680,East,Organic,4
+1681,West,Paid Search,8
+1682,North,Organic,9
+1683,North,Referral,8
+1684,South,Organic,4
+1685,West,Paid Search,1
+1686,South,Organic,3
+1687,West,Paid Search,3
+1688,North,Paid Search,8
+1689,East,Referral,4
+1690,North,Paid Search,0
+1691,South,Paid Search,5
+1692,North,Referral,8
+1693,South,Organic,8
+1694,South,Paid Search,9
+1695,East,Referral,8
+1696,North,Referral,2
+1697,East,Organic,7
+1698,South,Paid Search,8
+1699,West,Organic,7
+1700,East,Organic,4
+1701,West,Paid Search,1
+1702,North,Referral,2
+1703,South,Paid Search,8
+1704,North,Organic,8
+1705,South,Organic,1
+1706,East,Referral,9
+1707,North,Referral,7
+1708,South,Paid Search,2
+1709,East,Organic,2
+1710,North,Organic,5
+1711,South,Paid Search,5
+1712,East,Paid Search,5
+1713,South,Organic,4
+1714,West,Paid Search,5
+1715,East,Paid Search,0
+1716,South,Paid Search,9
+1717,East,Organic,2
+1718,South,Paid Search,8
+1719,East,Organic,6
+1720,South,Organic,5
+1721,South,Referral,0
+1722,West,Organic,4
+1723,South,Referral,4
+1724,South,Organic,1
+1725,South,Organic,2
+1726,South,Paid Search,8
+1727,North,Organic,7
+1728,West,Organic,2
+1729,South,Organic,6
+1730,West,Organic,9
+1731,West,Organic,3
+1732,West,Organic,2
+1733,East,Referral,9
+1734,East,Organic,5
+1735,South,Referral,2
+1736,East,Referral,1
+1737,North,Organic,4
+1738,North,Organic,1
+1739,West,Organic,6
+1740,South,Organic,5
+1741,East,Referral,3
+1742,West,Paid Search,1
+1743,North,Paid Search,0
+1744,West,Organic,7
+1745,West,Referral,2
+1746,East,Paid Search,6
+1747,North,Organic,9
+1748,East,Organic,9
+1749,South,Paid Search,9
+1750,East,Referral,3
+1751,South,Paid Search,0
+1752,East,Paid Search,1
+1753,North,Referral,0
+1754,North,Referral,0
+1755,East,Paid Search,5
+1756,East,Paid Search,1
+1757,East,Organic,7
+1758,North,Paid Search,0
+1759,West,Organic,6
+1760,South,Organic,9
+1761,West,Paid Search,5
+1762,North,Referral,9
+1763,South,Paid Search,6
+1764,South,Paid Search,5
+1765,North,Referral,6
+1766,East,Organic,9
+1767,North,Referral,8
+1768,South,Organic,2
+1769,South,Referral,6
+1770,East,Paid Search,8
+1771,North,Paid Search,2
+1772,South,Organic,0
+1773,East,Organic,1
+1774,North,Organic,1
+1775,South,Referral,8
+1776,East,Organic,9
+1777,South,Referral,2
+1778,North,Organic,8
+1779,West,Organic,4
+1780,South,Paid Search,4
+1781,West,Organic,9
+1782,West,Paid Search,4
+1783,South,Paid Search,1
+1784,North,Organic,1
+1785,South,Organic,8
+1786,North,Organic,4
+1787,East,Organic,3
+1788,West,Paid Search,6
+1789,South,Paid Search,1
+1790,East,Paid Search,9
+1791,West,Paid Search,6
+1792,North,Organic,6
+1793,East,Referral,9
+1794,South,Paid Search,5
+1795,East,Organic,9
+1796,West,Paid Search,6
+1797,West,Referral,5
+1798,North,Paid Search,1
+1799,South,Paid Search,3
+1800,South,Referral,1
+1801,East,Referral,7
+1802,West,Paid Search,1
+1803,North,Paid Search,6
+1804,North,Referral,5
+1805,East,Referral,6
+1806,West,Paid Search,0
+1807,South,Organic,6
+1808,East,Referral,2
+1809,North,Organic,3
+1810,North,Organic,8
+1811,North,Paid Search,7
+1812,West,Paid Search,8
+1813,West,Organic,7
+1814,East,Organic,8
+1815,West,Referral,0
+1816,North,Organic,9
+1817,North,Organic,6
+1818,East,Referral,6
+1819,West,Organic,0
+1820,West,Organic,2
+1821,North,Paid Search,3
+1822,East,Organic,0
+1823,North,Paid Search,8
+1824,North,Organic,2
+1825,West,Paid Search,0
+1826,North,Organic,5
+1827,West,Referral,8
+1828,East,Paid Search,5
+1829,East,Organic,0
+1830,West,Paid Search,9
+1831,North,Organic,0
+1832,East,Organic,9
+1833,East,Paid Search,8
+1834,East,Referral,4
+1835,South,Organic,7
+1836,East,Referral,3
+1837,West,Referral,8
+1838,South,Organic,5
+1839,North,Organic,0
+1840,North,Paid Search,5
+1841,North,Referral,4
+1842,West,Paid Search,9
+1843,North,Referral,2
+1844,West,Paid Search,4
+1845,South,Paid Search,9
+1846,North,Paid Search,6
+1847,North,Paid Search,0
+1848,East,Paid Search,6
+1849,South,Organic,6
+1850,West,Organic,6
+1851,South,Referral,7
+1852,West,Organic,1
+1853,West,Paid Search,9
+1854,West,Organic,8
+1855,North,Paid Search,0
+1856,East,Paid Search,8
+1857,South,Paid Search,9
+1858,South,Organic,1
+1859,West,Organic,2
+1860,South,Organic,7
+1861,East,Organic,1
+1862,East,Referral,7
+1863,East,Organic,8
+1864,West,Organic,7
+1865,West,Paid Search,9
+1866,East,Paid Search,6
+1867,North,Organic,2
+1868,East,Paid Search,6
+1869,East,Paid Search,9
+1870,South,Paid Search,8
+1871,South,Organic,9
+1872,West,Organic,7
+1873,South,Paid Search,9
+1874,East,Paid Search,7
+1875,East,Referral,8
+1876,North,Organic,4
+1877,East,Paid Search,0
+1878,West,Organic,0
+1879,South,Organic,4
+1880,East,Paid Search,5
+1881,North,Paid Search,8
+1882,South,Organic,0
+1883,South,Paid Search,1
+1884,East,Organic,5
+1885,West,Referral,9
+1886,East,Referral,9
+1887,East,Paid Search,6
+1888,South,Paid Search,8
+1889,West,Organic,7
+1890,East,Referral,2
+1891,West,Organic,8
+1892,North,Organic,4
+1893,North,Organic,5
+1894,West,Organic,0
+1895,East,Organic,0
+1896,West,Organic,8
+1897,East,Referral,4
+1898,West,Organic,5
+1899,West,Organic,9
+1900,North,Paid Search,9
+1901,West,Referral,0
+1902,West,Organic,5
+1903,North,Referral,8
+1904,South,Paid Search,9
+1905,North,Referral,5
+1906,South,Referral,0
+1907,South,Paid Search,4
+1908,North,Referral,8
+1909,West,Referral,3
+1910,South,Organic,0
+1911,North,Paid Search,3
+1912,South,Organic,4
+1913,West,Paid Search,9
+1914,South,Referral,5
+1915,North,Referral,8
+1916,West,Paid Search,7
+1917,South,Referral,3
+1918,South,Organic,1
+1919,East,Referral,0
+1920,South,Paid Search,8
+1921,East,Paid Search,1
+1922,North,Referral,3
+1923,South,Organic,9
+1924,East,Organic,3
+1925,South,Paid Search,6
+1926,South,Organic,0
+1927,North,Referral,0
+1928,West,Organic,0
+1929,South,Paid Search,4
+1930,West,Organic,6
+1931,South,Referral,6
+1932,West,Organic,8
+1933,East,Organic,4
+1934,East,Paid Search,6
+1935,North,Organic,9
+1936,South,Organic,7
+1937,East,Paid Search,0
+1938,North,Paid Search,7
+1939,North,Organic,2
+1940,South,Organic,2
+1941,East,Referral,6
+1942,North,Paid Search,2
+1943,North,Paid Search,9
+1944,East,Paid Search,3
+1945,North,Organic,5
+1946,South,Organic,6
+1947,East,Paid Search,8
+1948,East,Organic,9
+1949,East,Organic,4
+1950,East,Paid Search,0
+1951,South,Organic,0
+1952,East,Paid Search,1
+1953,East,Referral,9
+1954,North,Organic,8
+1955,South,Paid Search,2
+1956,North,Organic,9
+1957,West,Organic,5
+1958,North,Paid Search,8
+1959,West,Referral,7
+1960,North,Organic,7
+1961,West,Paid Search,8
+1962,East,Referral,3
+1963,North,Organic,4
+1964,East,Organic,8
+1965,West,Paid Search,6
+1966,South,Paid Search,4
+1967,East,Paid Search,1
+1968,South,Paid Search,9
+1969,South,Paid Search,6
+1970,East,Organic,1
+1971,North,Paid Search,2
+1972,West,Paid Search,4
+1973,West,Organic,2
+1974,West,Referral,4
+1975,South,Organic,3
+1976,East,Paid Search,9
+1977,East,Paid Search,3
+1978,East,Paid Search,7
+1979,South,Paid Search,1
+1980,North,Referral,6
+1981,West,Organic,0
+1982,East,Referral,3
+1983,South,Organic,2
+1984,North,Paid Search,0
+1985,West,Organic,7
+1986,North,Organic,0
+1987,South,Referral,1
+1988,East,Organic,1
+1989,South,Organic,1
+1990,North,Organic,0
+1991,East,Paid Search,6
+1992,North,Paid Search,3
+1993,East,Organic,0
+1994,West,Organic,2
+1995,East,Paid Search,2
+1996,West,Paid Search,7
+1997,North,Paid Search,4
+1998,West,Referral,5
+1999,East,Paid Search,7
+2000,North,Organic,0
+2001,South,Organic,0
+2002,East,Organic,3
+2003,North,Paid Search,1
+2004,East,Organic,1
+2005,West,Organic,0
+2006,North,Paid Search,7
+2007,North,Organic,1
+2008,West,Referral,9
+2009,South,Organic,7
+2010,East,Organic,6
+2011,North,Referral,8
+2012,East,Organic,0
+2013,North,Paid Search,0
+2014,West,Paid Search,0
+2015,South,Organic,7
+2016,East,Paid Search,7
+2017,East,Referral,0
+2018,South,Referral,2
+2019,West,Organic,5
+2020,North,Referral,3
+2021,East,Referral,9
+2022,East,Paid Search,7
+2023,West,Paid Search,9
+2024,East,Referral,4
+2025,South,Referral,7
+2026,North,Organic,4
+2027,East,Organic,3
+2028,North,Organic,7
+2029,South,Paid Search,0
+2030,North,Organic,0
+2031,West,Referral,1
+2032,East,Organic,2
+2033,North,Paid Search,8
+2034,North,Organic,6
+2035,West,Paid Search,2
+2036,West,Organic,6
+2037,West,Paid Search,2
+2038,West,Paid Search,6
+2039,North,Paid Search,5
+2040,South,Referral,7
+2041,East,Organic,1
+2042,North,Referral,0
+2043,South,Referral,6
+2044,East,Organic,4
+2045,East,Organic,0
+2046,East,Organic,6
+2047,West,Paid Search,5
+2048,East,Paid Search,8
+2049,West,Referral,8
+2050,East,Paid Search,9
+2051,South,Organic,0
+2052,West,Paid Search,7
+2053,South,Organic,0
+2054,West,Paid Search,9
+2055,North,Paid Search,7
+2056,West,Paid Search,2
+2057,South,Paid Search,7
+2058,North,Referral,6
+2059,East,Paid Search,4
+2060,East,Organic,4
+2061,South,Paid Search,3
+2062,North,Paid Search,6
+2063,West,Referral,4
+2064,North,Paid Search,1
+2065,South,Organic,1
+2066,East,Referral,6
+2067,West,Referral,5
+2068,East,Organic,6
+2069,North,Organic,5
+2070,South,Paid Search,7
+2071,West,Organic,4
+2072,North,Paid Search,4
+2073,East,Organic,4
+2074,East,Organic,1
+2075,South,Paid Search,0
+2076,North,Organic,4
+2077,South,Paid Search,6
+2078,West,Referral,5
+2079,East,Paid Search,4
+2080,East,Organic,2
+2081,North,Referral,4
+2082,North,Organic,3
+2083,West,Paid Search,0
+2084,South,Paid Search,8
+2085,West,Paid Search,0
+2086,West,Paid Search,5
+2087,West,Organic,7
+2088,North,Paid Search,6
+2089,South,Organic,7
+2090,West,Organic,5
+2091,East,Organic,7
+2092,South,Organic,5
+2093,East,Paid Search,7
+2094,South,Organic,4
+2095,East,Paid Search,6
+2096,North,Organic,8
+2097,West,Referral,2
+2098,South,Organic,3
+2099,East,Referral,3
+2100,South,Paid Search,3
+2101,West,Paid Search,9
+2102,West,Paid Search,5
+2103,South,Organic,4
+2104,South,Paid Search,7
+2105,South,Paid Search,5
+2106,South,Paid Search,0
+2107,North,Referral,6
+2108,South,Paid Search,6
+2109,East,Paid Search,2
+2110,North,Paid Search,2
+2111,South,Referral,6
+2112,West,Referral,2
+2113,North,Paid Search,3
+2114,West,Paid Search,1
+2115,East,Referral,3
+2116,South,Organic,2
+2117,South,Paid Search,5
+2118,South,Organic,6
+2119,East,Referral,4
+2120,East,Organic,1
+2121,South,Paid Search,5
+2122,South,Paid Search,0
+2123,East,Organic,9
+2124,East,Paid Search,7
+2125,North,Referral,8
+2126,West,Paid Search,1
+2127,East,Organic,4
+2128,East,Organic,8
+2129,North,Organic,8
+2130,East,Organic,3
+2131,South,Organic,3
+2132,South,Organic,4
+2133,South,Paid Search,8
+2134,North,Paid Search,2
+2135,West,Organic,2
+2136,East,Organic,6
+2137,East,Paid Search,1
+2138,East,Organic,9
+2139,East,Paid Search,9
+2140,East,Paid Search,0
+2141,South,Paid Search,0
+2142,West,Paid Search,0
+2143,South,Paid Search,6
+2144,East,Referral,2
+2145,South,Paid Search,2
+2146,West,Paid Search,1
+2147,South,Referral,1
+2148,East,Paid Search,0
+2149,West,Organic,4
+2150,West,Organic,9
+2151,North,Paid Search,9
+2152,North,Paid Search,4
+2153,East,Paid Search,5
+2154,North,Organic,4
+2155,South,Referral,6
+2156,South,Paid Search,1
+2157,South,Organic,3
+2158,East,Paid Search,2
+2159,West,Paid Search,1
+2160,West,Referral,7
+2161,South,Organic,9
+2162,East,Paid Search,6
+2163,North,Paid Search,3
+2164,East,Organic,6
+2165,North,Referral,1
+2166,West,Organic,3
+2167,West,Referral,2
+2168,North,Referral,1
+2169,East,Organic,3
+2170,West,Paid Search,0
+2171,North,Paid Search,3
+2172,North,Referral,7
+2173,South,Referral,7
+2174,East,Referral,5
+2175,East,Referral,8
+2176,West,Organic,6
+2177,East,Organic,1
+2178,East,Referral,7
+2179,East,Organic,5
+2180,East,Paid Search,4
+2181,West,Referral,8
+2182,North,Referral,0
+2183,West,Referral,3
+2184,East,Paid Search,7
+2185,North,Organic,8
+2186,North,Referral,0
+2187,East,Organic,3
+2188,North,Paid Search,0
+2189,North,Organic,9
+2190,West,Paid Search,9
+2191,East,Paid Search,2
+2192,East,Paid Search,9
+2193,North,Organic,7
+2194,East,Paid Search,8
+2195,South,Paid Search,3
+2196,East,Organic,0
+2197,East,Organic,4
+2198,South,Paid Search,1
+2199,North,Paid Search,0
+2200,North,Referral,9
