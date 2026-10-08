@@ -6,6 +6,12 @@ Identify profitable growth and retention opportunities without confusing sales v
 
 ![Analytical preview](outputs/revenue_trend.png)
 
+## Live dashboard
+
+[Open interactive dashboard](https://harshvtomar.github.io/retail-growth-profitability/)
+
+Hosted on GitHub Pages from `main` → `/docs`. The dashboard provides segment filters, KPI cards, trends, detailed tables, and CSV export using synthetic data. To publish dashboard changes, copy `dashboard/index.html` to `docs/index.html` and commit both files; GitHub Pages redeploys automatically. Power BI and Tableau verification status is documented separately in `bi/validation.json`.
+
 ## Run locally
 
 ```bash
